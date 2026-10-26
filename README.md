@@ -1,3 +1,15 @@
-# Hospital-Composition
-# Hospital Project 🏥  A simple Java project I made to practice OOP (Composition)
- The idea is that a `Hospital` has a list of `Patients` with their info (name, age, id).   This is just for practice and learning, not a full system.
+# Hospital Project 🏥
+
+A small Java project I made to practice **object-oriented composition**. A hospital holds a list of patients and their information, including name, age, and ID.
+
+## Project Files
+
+- `Hospital.java` — Hospital class.
+- `patients.java` — Patient information.
+- `Test1.java` — Example program.
+
+## Tools
+
+- Java
+
+This is a practice project for learning OOP, rather than a complete hospital system.
